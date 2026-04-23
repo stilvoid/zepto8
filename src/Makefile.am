@@ -178,6 +178,8 @@ libzepto8_la_SOURCES = \
     vm.cpp \
     bios.cpp bios.h \
     synth.cpp synth.h \
+    filter.cpp filter.h \
+    textfile.cpp textfile.h \
     \
     bindings/js.h bindings/lua.h \
     \
